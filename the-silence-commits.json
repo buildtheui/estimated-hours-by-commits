@@ -1,0 +1,732 @@
+[
+  {
+    "commit": "5856a8d",
+    "title": "chore: add a new readme item",
+    "date": "Wed, 2 Mar 2022 17:43:14 -0500"
+  },
+  {
+    "commit": "edd8b46",
+    "title": "fix: readme titles",
+    "date": "Wed, 2 Mar 2022 17:00:41 -0500"
+  },
+  {
+    "commit": "0602072",
+    "title": "chore: update documentation",
+    "date": "Wed, 2 Mar 2022 16:57:52 -0500"
+  },
+  {
+    "commit": "13a4808",
+    "title": "fix: last image cut",
+    "date": "Wed, 2 Mar 2022 16:00:41 -0500"
+  },
+  {
+    "commit": "b3d375f",
+    "title": "feat: add center text editor functionality",
+    "date": "Wed, 2 Mar 2022 15:38:47 -0500"
+  },
+  {
+    "commit": "fda0586",
+    "title": "chore: change founders link",
+    "date": "Tue, 1 Mar 2022 20:44:29 -0500"
+  },
+  {
+    "commit": "88b1c95",
+    "title": "feat: add section changed callbacks",
+    "date": "Tue, 1 Mar 2022 20:22:57 -0500"
+  },
+  {
+    "commit": "47f0351",
+    "title": "fix: manifesto scroll without black in the top",
+    "date": "Tue, 1 Mar 2022 18:39:26 -0500"
+  },
+  {
+    "commit": "e2c8203",
+    "title": "fix: add minor changes",
+    "date": "Tue, 1 Mar 2022 15:47:58 -0500"
+  },
+  {
+    "commit": "8df9eea",
+    "title": "chore: upgrade sanity",
+    "date": "Tue, 1 Mar 2022 15:35:55 -0500"
+  },
+  {
+    "commit": "445e29b",
+    "title": "feat: add not found to founders and team",
+    "date": "Fri, 25 Feb 2022 11:34:29 -0500"
+  },
+  {
+    "commit": "67bff61",
+    "title": "feat: add ISR to founders and teams",
+    "date": "Fri, 25 Feb 2022 11:18:43 -0500"
+  },
+  {
+    "commit": "8b60d85",
+    "title": "feat: landing blog static generation",
+    "date": "Fri, 25 Feb 2022 10:45:46 -0500"
+  },
+  {
+    "commit": "9802e4d",
+    "title": "feat: add ISR to blog paths",
+    "date": "Fri, 25 Feb 2022 10:09:24 -0500"
+  },
+  {
+    "commit": "908ef16",
+    "title": "feat: add ISR to blog categories",
+    "date": "Fri, 25 Feb 2022 09:45:47 -0500"
+  },
+  {
+    "commit": "b085b4a",
+    "title": "fix: rename page icon",
+    "date": "Thu, 24 Feb 2022 17:27:17 -0500"
+  },
+  {
+    "commit": "56a5b59",
+    "title": "feat: add blog category mobile and desktop",
+    "date": "Thu, 24 Feb 2022 17:04:51 -0500"
+  },
+  {
+    "commit": "7be0634",
+    "title": "feat: add desktop blog landing",
+    "date": "Thu, 24 Feb 2022 16:14:14 -0500"
+  },
+  {
+    "commit": "655d02d",
+    "title": "feat: add blog landing for mobile",
+    "date": "Thu, 24 Feb 2022 13:57:18 -0500"
+  },
+  {
+    "commit": "59b36d8",
+    "title": "feat: add desktop blog view",
+    "date": "Thu, 24 Feb 2022 09:57:37 -0500"
+  },
+  {
+    "commit": "3cc5a9b",
+    "title": "feat: add responsiveness to small screens",
+    "date": "Thu, 24 Feb 2022 09:06:00 -0500"
+  },
+  {
+    "commit": "e9b0650",
+    "title": "feat: add carousel functionality at end blog post",
+    "date": "Wed, 23 Feb 2022 19:26:34 -0500"
+  },
+  {
+    "commit": "2369dea",
+    "title": "feat: add related posts first part",
+    "date": "Wed, 23 Feb 2022 19:12:35 -0500"
+  },
+  {
+    "commit": "7c05adb",
+    "title": "feat: add blog title",
+    "date": "Wed, 23 Feb 2022 18:10:17 -0500"
+  },
+  {
+    "commit": "741deaf",
+    "title": "feat: add blog content image styles",
+    "date": "Wed, 23 Feb 2022 16:13:47 -0500"
+  },
+  {
+    "commit": "247e65b",
+    "title": "feat: add first blog scaffolding",
+    "date": "Wed, 23 Feb 2022 15:25:53 -0500"
+  },
+  {
+    "commit": "b7c1519",
+    "title": "feat: add blog schema configuration",
+    "date": "Wed, 23 Feb 2022 11:06:26 -0500"
+  },
+  {
+    "commit": "f180189",
+    "title": "feat: add team detail for desktop and mobile",
+    "date": "Fri, 18 Feb 2022 17:31:58 -0500"
+  },
+  {
+    "commit": "a458645",
+    "title": "refactor: make a generic accordion",
+    "date": "Fri, 18 Feb 2022 16:50:01 -0500"
+  },
+  {
+    "commit": "9b6cf32",
+    "title": "fix: increment timeout carousel",
+    "date": "Thu, 17 Feb 2022 18:48:46 -0500"
+  },
+  {
+    "commit": "b8df31a",
+    "title": "feat: add desktop team landing",
+    "date": "Thu, 17 Feb 2022 18:33:46 -0500"
+  },
+  {
+    "commit": "5c9dc0c",
+    "title": "feat: add team schema and landing mobile",
+    "date": "Thu, 17 Feb 2022 18:19:42 -0500"
+  },
+  {
+    "commit": "4ca0a78",
+    "title": "fix: increase timming scroll up",
+    "date": "Thu, 17 Feb 2022 15:54:23 -0500"
+  },
+  {
+    "commit": "9113754",
+    "title": "fix: accordion item error",
+    "date": "Thu, 17 Feb 2022 15:42:58 -0500"
+  },
+  {
+    "commit": "9b2f3d1",
+    "title": "feat: add founders detail desktop",
+    "date": "Thu, 17 Feb 2022 15:37:52 -0500"
+  },
+  {
+    "commit": "3f977cf",
+    "title": "chore: add routing for founders to detail",
+    "date": "Thu, 17 Feb 2022 13:55:36 -0500"
+  },
+  {
+    "commit": "7db14cf",
+    "title": "feat: add auto scroll when founder by path accessed",
+    "date": "Thu, 17 Feb 2022 11:51:26 -0500"
+  },
+  {
+    "commit": "8f48da3",
+    "title": "feat: add dynamic background to founders",
+    "date": "Thu, 17 Feb 2022 10:24:26 -0500"
+  },
+  {
+    "commit": "c012a5e",
+    "title": "feat: add green icon to categories",
+    "date": "Wed, 16 Feb 2022 21:51:23 -0500"
+  },
+  {
+    "commit": "e2ee647",
+    "title": "feat: add according content for founders",
+    "date": "Wed, 16 Feb 2022 21:08:28 -0500"
+  },
+  {
+    "commit": "3d8d666",
+    "title": "fix: founder hover",
+    "date": "Wed, 16 Feb 2022 20:38:17 -0500"
+  },
+  {
+    "commit": "07e4e71",
+    "title": "feat: add first mobile layout for founders description",
+    "date": "Wed, 16 Feb 2022 20:09:14 -0500"
+  },
+  {
+    "commit": "616e231",
+    "title": "feat: add routes to the menus",
+    "date": "Wed, 16 Feb 2022 18:15:51 -0500"
+  },
+  {
+    "commit": "024efd3",
+    "title": "chore: add founders desktop responsive",
+    "date": "Wed, 16 Feb 2022 18:03:06 -0500"
+  },
+  {
+    "commit": "cdb6381",
+    "title": "chore: add hover cover to founders",
+    "date": "Wed, 16 Feb 2022 17:03:39 -0500"
+  },
+  {
+    "commit": "cba5dc9",
+    "title": "feat: move carousel logic to a hook",
+    "date": "Wed, 16 Feb 2022 10:31:36 -0500"
+  },
+  {
+    "commit": "8cd4616",
+    "title": "feat: move carousel logic to a hook",
+    "date": "Wed, 16 Feb 2022 10:30:16 -0500"
+  },
+  {
+    "commit": "a6d2b94",
+    "title": "feat: fix carousel and add responsive small screens",
+    "date": "Wed, 16 Feb 2022 10:06:51 -0500"
+  },
+  {
+    "commit": "72b1506",
+    "title": "fix: add new scroll method based on width",
+    "date": "Tue, 15 Feb 2022 22:09:01 -0500"
+  },
+  {
+    "commit": "8084407",
+    "title": "feat: add interaction for founders scroll",
+    "date": "Tue, 15 Feb 2022 19:11:09 -0500"
+  },
+  {
+    "commit": "fcecf4e",
+    "title": "chore: add order to founder list",
+    "date": "Tue, 15 Feb 2022 17:52:11 -0500"
+  },
+  {
+    "commit": "e566f94",
+    "title": "feat: add founders data layout",
+    "date": "Tue, 15 Feb 2022 16:49:37 -0500"
+  },
+  {
+    "commit": "595bafd",
+    "title": "fix: linter mismatch",
+    "date": "Tue, 15 Feb 2022 16:08:29 -0500"
+  },
+  {
+    "commit": "c779847",
+    "title": "feat: add sanity client config",
+    "date": "Tue, 15 Feb 2022 10:35:55 -0500"
+  },
+  {
+    "commit": "b2455c8",
+    "title": "feat: add first schemas to cms",
+    "date": "Mon, 14 Feb 2022 20:38:07 -0500"
+  },
+  {
+    "commit": "d56ad81",
+    "title": "fix: tailwind build inn next js workspaces",
+    "date": "Mon, 14 Feb 2022 19:13:35 -0500"
+  },
+  {
+    "commit": "b6b121a",
+    "title": "chore: remove binaries",
+    "date": "Mon, 14 Feb 2022 18:43:26 -0500"
+  },
+  {
+    "commit": "8021e96",
+    "title": "feat: add sanity cms to monorepo",
+    "date": "Mon, 14 Feb 2022 18:39:06 -0500"
+  },
+  {
+    "commit": "64dc862",
+    "title": "refactor: convert repo into monorepo",
+    "date": "Mon, 14 Feb 2022 17:50:55 -0500"
+  },
+  {
+    "commit": "4c54a81",
+    "title": "feat: add first founders mobile layout",
+    "date": "Mon, 14 Feb 2022 10:10:26 -0500"
+  },
+  {
+    "commit": "6a12637",
+    "title": "feat: config pre hook",
+    "date": "Tue, 1 Feb 2022 10:31:43 -0500"
+  },
+  {
+    "commit": "cb769de",
+    "title": "style: fix format and lint in the whole project",
+    "date": "Tue, 1 Feb 2022 10:19:38 -0500"
+  },
+  {
+    "commit": "3a03a1e",
+    "title": "chore: add opacity before rendering ManifestoDesk",
+    "date": "Fri, 28 Jan 2022 09:30:09 -0500"
+  },
+  {
+    "commit": "9b7ca2b",
+    "title": "refactor: move the silence logo to component",
+    "date": "Fri, 28 Jan 2022 09:23:13 -0500"
+  },
+  {
+    "commit": "4e8e6c8",
+    "title": "refactor: rename manifesto sections layout components",
+    "date": "Fri, 28 Jan 2022 09:06:04 -0500"
+  },
+  {
+    "commit": "2fdca49",
+    "title": "refactor: move animation out of manifesto landing",
+    "date": "Fri, 28 Jan 2022 08:55:38 -0500"
+  },
+  {
+    "commit": "1786ed6",
+    "title": "chore: add route navigation to manifesto landing",
+    "date": "Fri, 28 Jan 2022 08:43:01 -0500"
+  },
+  {
+    "commit": "d4adaec",
+    "title": "feat: change menu view height positions to go to",
+    "date": "Fri, 28 Jan 2022 08:39:01 -0500"
+  },
+  {
+    "commit": "82354e6",
+    "title": "chore: add initial goToSection function impl",
+    "date": "Thu, 27 Jan 2022 21:22:41 -0500"
+  },
+  {
+    "commit": "07a2b32",
+    "title": "feat: add second iteration animation manifesto",
+    "date": "Thu, 27 Jan 2022 18:34:32 -0500"
+  },
+  {
+    "commit": "ec13cb1",
+    "title": "chore: improve horizontal scroll calculation",
+    "date": "Wed, 26 Jan 2022 16:46:40 -0500"
+  },
+  {
+    "commit": "59f7edb",
+    "title": "chore: add first part animation manifesto desktop",
+    "date": "Wed, 26 Jan 2022 12:08:50 -0500"
+  },
+  {
+    "commit": "09b005f",
+    "title": "chore: document ImageBg change",
+    "date": "Wed, 26 Jan 2022 08:35:38 -0500"
+  },
+  {
+    "commit": "5bbcbfb",
+    "title": "chore: test removing Image next from ImageBg",
+    "date": "Wed, 26 Jan 2022 08:12:15 -0500"
+  },
+  {
+    "commit": "3aedc91",
+    "title": "chore: change manifesto img quality",
+    "date": "Tue, 25 Jan 2022 21:08:41 -0500"
+  },
+  {
+    "commit": "711894e",
+    "title": "feat: add SidebarMenu active state",
+    "date": "Tue, 25 Jan 2022 20:03:29 -0500"
+  },
+  {
+    "commit": "da59e18",
+    "title": "feeat: add section info for each manifesto desktop",
+    "date": "Tue, 25 Jan 2022 19:35:44 -0500"
+  },
+  {
+    "commit": "8e5cd21",
+    "title": "feat: add calculated overflow containers manifesto desktop",
+    "date": "Tue, 25 Jan 2022 18:52:17 -0500"
+  },
+  {
+    "commit": "71fd328",
+    "title": "refactor: move some components from layout to elements",
+    "date": "Tue, 25 Jan 2022 18:06:08 -0500"
+  },
+  {
+    "commit": "3c33be7",
+    "title": "refactor: move sidebar to extenal component",
+    "date": "Tue, 25 Jan 2022 17:55:47 -0500"
+  },
+  {
+    "commit": "f76c981",
+    "title": "fix: add a faster timinng on opacity",
+    "date": "Tue, 25 Jan 2022 11:36:45 -0500"
+  },
+  {
+    "commit": "5af3cbe",
+    "title": "feat: add smoother transition to bg imges",
+    "date": "Tue, 25 Jan 2022 11:30:25 -0500"
+  },
+  {
+    "commit": "7f7ac2a",
+    "title": "feat: reduce bg image quality 10%",
+    "date": "Tue, 25 Jan 2022 10:59:13 -0500"
+  },
+  {
+    "commit": "bad9184",
+    "title": "chore: add quality prop to ImageBg",
+    "date": "Tue, 25 Jan 2022 09:55:41 -0500"
+  },
+  {
+    "commit": "4eaa36c",
+    "title": "chore: reduce mobile jpg backgrounds",
+    "date": "Mon, 24 Jan 2022 21:54:37 -0500"
+  },
+  {
+    "commit": "ea184c2",
+    "title": "fix: add priority again",
+    "date": "Mon, 24 Jan 2022 21:31:22 -0500"
+  },
+  {
+    "commit": "894f775",
+    "title": "fix: remove priority img background",
+    "date": "Mon, 24 Jan 2022 21:21:34 -0500"
+  },
+  {
+    "commit": "461fbc5",
+    "title": "chore: change the landing copy",
+    "date": "Mon, 24 Jan 2022 21:12:24 -0500"
+  },
+  {
+    "commit": "9b149ac",
+    "title": "feat: add manifesto background images",
+    "date": "Mon, 24 Jan 2022 21:10:20 -0500"
+  },
+  {
+    "commit": "bfdee09",
+    "title": "feat: add strategy manifesto section",
+    "date": "Mon, 24 Jan 2022 20:13:22 -0500"
+  },
+  {
+    "commit": "8da2d08",
+    "title": "feat: add heuristics section",
+    "date": "Mon, 24 Jan 2022 19:29:57 -0500"
+  },
+  {
+    "commit": "14dcdf8",
+    "title": "chore: add the why manifesto section",
+    "date": "Mon, 24 Jan 2022 18:54:25 -0500"
+  },
+  {
+    "commit": "6336614",
+    "title": "refactor: move code to an adaptive version",
+    "date": "Mon, 24 Jan 2022 18:45:43 -0500"
+  },
+  {
+    "commit": "c68df3f",
+    "title": "feat: add help manifesto mobile content",
+    "date": "Mon, 24 Jan 2022 16:20:30 -0500"
+  },
+  {
+    "commit": "729a4bd",
+    "title": "feat: add accordion component",
+    "date": "Mon, 24 Jan 2022 16:08:20 -0500"
+  },
+  {
+    "commit": "944d11c",
+    "title": "chore: add route to manifesto landing",
+    "date": "Mon, 24 Jan 2022 11:44:02 -0500"
+  },
+  {
+    "commit": "d84dbb8",
+    "title": "chore: addmanifesto  active menu logic",
+    "date": "Mon, 24 Jan 2022 11:19:04 -0500"
+  },
+  {
+    "commit": "fcecc6c",
+    "title": "chore: adjust threshold useIntersectionClass",
+    "date": "Mon, 24 Jan 2022 11:07:14 -0500"
+  },
+  {
+    "commit": "d9590a7",
+    "title": "fix: manifesto height layout",
+    "date": "Mon, 24 Jan 2022 10:56:17 -0500"
+  },
+  {
+    "commit": "e2a84fb",
+    "title": "chore: add spacings to sm manifesto",
+    "date": "Mon, 24 Jan 2022 09:13:59 -0500"
+  },
+  {
+    "commit": "5010244",
+    "title": "fix: ajust scroller height",
+    "date": "Mon, 24 Jan 2022 09:03:57 -0500"
+  },
+  {
+    "commit": "544896f",
+    "title": "fix: add new vh fix component",
+    "date": "Sat, 22 Jan 2022 22:12:45 -0500"
+  },
+  {
+    "commit": "8131360",
+    "title": "fix: add calc height to scroll container",
+    "date": "Sat, 22 Jan 2022 20:29:20 -0500"
+  },
+  {
+    "commit": "35e78e1",
+    "title": "chore: add scroll behavior mobile devices",
+    "date": "Sat, 22 Jan 2022 17:14:47 -0500"
+  },
+  {
+    "commit": "a6c9a78",
+    "title": "chore: add first section layout",
+    "date": "Sat, 22 Jan 2022 16:54:00 -0500"
+  },
+  {
+    "commit": "1fdd048",
+    "title": "feat: add first colored manifesto layout",
+    "date": "Sat, 22 Jan 2022 11:45:27 -0500"
+  },
+  {
+    "commit": "e4a93c5",
+    "title": "refactor: rename LandingBg to ImageBg to make it generic",
+    "date": "Sat, 22 Jan 2022 10:07:50 -0500"
+  },
+  {
+    "commit": "1070cc3",
+    "title": "fix: manifesto text size",
+    "date": "Fri, 21 Jan 2022 15:26:20 -0500"
+  },
+  {
+    "commit": "da662ea",
+    "title": "chore: add bulb icon and fix z-index landing",
+    "date": "Fri, 21 Jan 2022 15:20:23 -0500"
+  },
+  {
+    "commit": "2ff1c26",
+    "title": "chore: add manifesto landing new layout",
+    "date": "Fri, 21 Jan 2022 14:58:32 -0500"
+  },
+  {
+    "commit": "a0a3fad",
+    "title": "fix: remove 2xl screen",
+    "date": "Fri, 21 Jan 2022 12:00:26 -0500"
+  },
+  {
+    "commit": "8ec3bea",
+    "title": "feat: add ManifestoLanding first layout",
+    "date": "Fri, 21 Jan 2022 11:56:30 -0500"
+  },
+  {
+    "commit": "9e3b98c",
+    "title": "fix: waves in menu",
+    "date": "Fri, 21 Jan 2022 11:50:37 -0500"
+  },
+  {
+    "commit": "d246c81",
+    "title": "fix: align useScreenSize with tailwind measure",
+    "date": "Fri, 21 Jan 2022 11:31:53 -0500"
+  },
+  {
+    "commit": "f1d69b6",
+    "title": "fix: change waves sm and 2xl",
+    "date": "Thu, 20 Jan 2022 16:23:06 -0500"
+  },
+  {
+    "commit": "36676fa",
+    "title": "chore: change link route in index manifesto",
+    "date": "Wed, 19 Jan 2022 21:30:16 -0500"
+  },
+  {
+    "commit": "91ec15c",
+    "title": "feat: add manifest landing page",
+    "date": "Wed, 19 Jan 2022 21:21:31 -0500"
+  },
+  {
+    "commit": "a11cf91",
+    "title": "chore: remove ui page",
+    "date": "Tue, 11 Jan 2022 18:43:49 -0500"
+  },
+  {
+    "commit": "8ddd96d",
+    "title": "fix: lottie width support problem",
+    "date": "Tue, 4 Jan 2022 17:13:52 -0500"
+  },
+  {
+    "commit": "bd0aa72",
+    "title": "chore: test fix for animation position",
+    "date": "Tue, 4 Jan 2022 15:51:14 -0500"
+  },
+  {
+    "commit": "5c01b08",
+    "title": "chore: disable next image for wavees",
+    "date": "Tue, 28 Dec 2021 20:28:52 -0500"
+  },
+  {
+    "commit": "130307d",
+    "title": "chore: add text animation to prevent jerkiness",
+    "date": "Tue, 28 Dec 2021 19:07:40 -0500"
+  },
+  {
+    "commit": "3f1ae10",
+    "title": "refactor: ajust animation to fix size",
+    "date": "Tue, 28 Dec 2021 18:46:51 -0500"
+  },
+  {
+    "commit": "6c09fd4",
+    "title": "chore: keep animation with constant size",
+    "date": "Tue, 28 Dec 2021 10:36:05 -0500"
+  },
+  {
+    "commit": "7569f1e",
+    "title": "fix: layer components mispelling",
+    "date": "Wed, 22 Dec 2021 11:29:49 -0500"
+  },
+  {
+    "commit": "e654e7c",
+    "title": "fix: add important to root height",
+    "date": "Wed, 22 Dec 2021 11:25:55 -0500"
+  },
+  {
+    "commit": "e566e12",
+    "title": "chore: change 100vh to 100% in main",
+    "date": "Wed, 22 Dec 2021 11:18:57 -0500"
+  },
+  {
+    "commit": "7863ae7",
+    "title": "feat: add white wave in menu",
+    "date": "Wed, 22 Dec 2021 11:12:05 -0500"
+  },
+  {
+    "commit": "7490e2e",
+    "title": "feat: add wave animation",
+    "date": "Wed, 22 Dec 2021 10:02:31 -0500"
+  },
+  {
+    "commit": "54d919d",
+    "title": "fix: replace new background images",
+    "date": "Tue, 21 Dec 2021 18:11:10 -0500"
+  },
+  {
+    "commit": "4dd9c32",
+    "title": "chore: add smother menu animation",
+    "date": "Tue, 21 Dec 2021 13:02:36 -0500"
+  },
+  {
+    "commit": "4994be0",
+    "title": "feat: add exit animation menu",
+    "date": "Tue, 21 Dec 2021 08:50:30 -0500"
+  },
+  {
+    "commit": "f7e1d34",
+    "title": "fix: transition on init",
+    "date": "Tue, 21 Dec 2021 08:16:53 -0500"
+  },
+  {
+    "commit": "312bf1e",
+    "title": "feat: add animation to menu open",
+    "date": "Mon, 20 Dec 2021 22:15:35 -0500"
+  },
+  {
+    "commit": "ec52775",
+    "title": "feat: add landing menu",
+    "date": "Mon, 20 Dec 2021 20:13:19 -0500"
+  },
+  {
+    "commit": "3ba1e74",
+    "title": "feat: add landing first part",
+    "date": "Sat, 18 Dec 2021 21:47:44 -0500"
+  },
+  {
+    "commit": "e536c65",
+    "title": "feat: add new icons",
+    "date": "Fri, 17 Dec 2021 20:42:45 -0500"
+  },
+  {
+    "commit": "3fa0f8a",
+    "title": "refactor: add secondary color to AnchorLinks",
+    "date": "Fri, 17 Dec 2021 19:02:41 -0500"
+  },
+  {
+    "commit": "25d79c6",
+    "title": "feat: add more AnchorLink examples",
+    "date": "Wed, 15 Dec 2021 20:05:33 -0500"
+  },
+  {
+    "commit": "4137356",
+    "title": "fix: skip eslint rule AnchorLink",
+    "date": "Wed, 15 Dec 2021 18:03:58 -0500"
+  },
+  {
+    "commit": "6b292ae",
+    "title": "feat: add AnchorLink component",
+    "date": "Tue, 14 Dec 2021 19:01:56 -0500"
+  },
+  {
+    "commit": "f77fd12",
+    "title": "feat: new font and buttons background",
+    "date": "Tue, 14 Dec 2021 16:26:31 -0500"
+  },
+  {
+    "commit": "884d181",
+    "title": "feat: add onclick functionality",
+    "date": "Tue, 14 Dec 2021 11:19:43 -0500"
+  },
+  {
+    "commit": "b4db6e3",
+    "title": "feat: add new button component",
+    "date": "Tue, 14 Dec 2021 11:03:37 -0500"
+  },
+  {
+    "commit": "2e5eb3b",
+    "title": "feat: set up colors and fonts",
+    "date": "Mon, 13 Dec 2021 20:35:34 -0500"
+  },
+  {
+    "commit": "eb5a403",
+    "title": "first set up for the silence FE",
+    "date": "Mon, 6 Dec 2021 20:06:58 -0500"
+  }
+]

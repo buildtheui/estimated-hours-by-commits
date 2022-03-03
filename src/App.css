@@ -1,0 +1,63 @@
+body {
+  height: 100vh;
+}
+
+.app {
+  display: flex;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.commit-block {
+  display: flex;
+  flex-direction: column;
+}
+
+.commit-date {
+  margin-bottom: 5px;
+  color: darkolivegreen;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.total-time {
+  color: black;
+}
+
+.commit-time {
+  font-weight: 600;
+}
+
+.timeline {
+  display: block;
+  flex: none;
+  overflow-y: scroll;
+  height: 97%;
+  padding: 20px;
+  margin: 0;
+}
+
+.results {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  padding-bottom: 0;
+  margin-top: 18px;
+}
+
+.total-payment {
+  display: flex;
+  flex-direction: column;
+}
+
+.aprox {
+  color: red;
+}
+
+@media screen and (max-width: 916px) {
+  .app {
+    flex-direction: column-reverse;
+    height: 100%;
+  }
+}
